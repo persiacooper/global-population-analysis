@@ -6,7 +6,15 @@
 
 ## 🧠 About This Project
 
-This beginner-friendly data analysis project explores global population trends using real-world data from Kaggle. It's a great introduction to using pandas for data cleaning, sorting, and basic insights — all done in a Jupyter notebook using Google Colab.
+This project is part of my journey to become a data analyst. I wanted to explore real-world datasets and practice the core tools used in data analysis — especially Python, pandas, and Jupyter notebooks.
+
+I chose population data because it's relevant, global, and easy to understand while still offering interesting insights. Through this project, I practiced:
+
+- Loading and reading a real CSV dataset
+- Exploring data using `pandas` methods like `.head()`, `.info()`, `.sort_values()`, and `.sum()`
+- Cleaning and analyzing tabular data to extract meaningful trends
+
+This project was completed using [Google Colab](https://colab.research.google.com) and uploaded to GitHub using GitHub Desktop. It is my first complete public data project — and more are coming soon!
 
 ---
 
